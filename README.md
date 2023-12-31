@@ -1,4 +1,4 @@
-# Dashboard Latihan (dashboardlatihan)
+# TKC5-Quasar (TUGAS-CARTENZ-KELOMPOK-5-QUASAR)
 
 Dashboard Latihan untuk SMK 21
 
