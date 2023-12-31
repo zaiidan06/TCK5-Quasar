@@ -1,7 +1,12 @@
-# TKC5-Quasar (TUGAS-CARTENZ-KELOMPOK-5-QUASAR)
+====================================================
+# TKC5-Quasar << TUGAS CARTENZ KELOMPOK 5 QUASAR >>
+====================================================
+ANGGOTA KELOMPOK 5 :
 
-Dashboard Latihan untuk SMK 21
-
+1. MUHAMAD ZAIDAN SUMARDI
+2. JOSE ANDHIKA PUTRA
+3. ROHMAN
+====================================================
 ## Install the dependencies
 ```bash
 yarn
